@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://framerusercontent.com/images/bKXcYgDACfTgLo1Kaf9On3LNh8g.png" alt="Clicktiv Logo" width="200"/>
+  <img src="https://framerusercontent.com/images/bKXcYgDACfTgLo1Kaf9On3LNh8g.png" alt="ClickTiv Logo" width="200"/>
 </p>
 
-<h1 align="center">🚀 Clicktiv</h1>
+<h1 align="center">🚀 ClickTiv</h1>
 
 <p align="center">
   <b>Creative Ads That Actually Grow Your Business</b><br/>
